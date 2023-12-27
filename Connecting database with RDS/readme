@@ -1,1 +1,3 @@
+Overview
+In this tutorial, you will learn how to create an environment to run your MySQL database (we call this environment an instance), connect to the database, and delete the database instance.
 
